@@ -1,28 +1,35 @@
-# ?? Proyecto Integrador Anual - LPR 2026
+# ?? Proyecto de Revisión Integral (Calculadora de Edad) — LPR 2026
+## Escuela de Educación Secundaria Técnica N° 1 "Eduardo Ader" — Vicente López
 
-## ?? Institución
-**EEST N.º 1 "Eduardo Ader" - Vicente López** **Curso:** 5° año 3° - Grupos A-B  
-**Materia:** Laboratorio de Programación (LPR)  
-**Profesores:** York / Yamil
+* **Curso:** 5° Año — Especialidad Computación / Programación
+* **Materia:** Laboratorio de Programación (LPR)
+* **Profesor:** Prof. York
 
 ---
 
-## ?? Descripción del Proyecto
-[Escribir aquí una breve explicación: ¿Qué problema resuelve el software? ¿A quién está dirigido?]
+## ?? Descripción de la Actividad
+Este proyecto es una actividad de diagnóstico y nivelación. Consiste en desarrollar un programa que calcule la edad exacta de una persona comparando su fecha de nacimiento con la fecha actual, validando que los datos existan en el calendario real (controlando años bisiestos y días de cada mes).
 
-## ?? Integrantes (Grupo N.º __)
-* **Apellido, Nombre** - [Rol: ej. Backend / Documentación]
-* **Apellido, Nombre** - [Rol: ej. Frontend / Diseño]
-* **Apellido, Nombre** - [Rol: ej. QA / Testing]
+El objetivo principal es comparar la lógica y la sintaxis de dos paradigmas diferentes:
+1. **C++ ANSI estándar:** Lenguaje estructurado, de tipado estático y bajo nivel.
+2. **Python 3:** Lenguaje multiparadigma, de tipado dinámico y alto nivel.
 
-## ??? Requisitos e Instalación
-1. Tener instalado **Python 3.12+** y **Git**.
-2. Clonar el repositorio:  
-   `git clone https://github.com/USUARIO/REPO.git`
-3. Instalar Flask desde la terminal de VSCode:  
-   `pip install flask`
+---
 
-## ?? Ejecución
-Para encender el servidor, situarse en la carpeta del proyecto y ejecutar:
+## ?? Integrantes (Grupo N° __)
+* **Apellido, Nombre** — [Rol: Programador C++]
+* **Apellido, Nombre** — [Rol: Programador Python]
+* **Apellido, Nombre** — [Rol: QA Tester / Documentación]
+
+---
+
+## ?? Requisitos e Instalación
+Para poder ejecutar y colaborar en este proyecto de software, necesitas contar con las siguientes herramientas en tu computadora:
+
+1. **Python 3.12+** (Marcar la casilla "Add python.exe to PATH" durante la instalación).
+2. **Compilador G++ / GCC** (Instalado mediante MinGW en Windows o Xcode-cli en macOS).
+3. **Git** (Configurado con la rama por defecto en `main`).
+
+Para clonar este repositorio de forma local, abre la terminal y ejecuta:
 ```bash
-python backend/app.py
+git clone [https://github.com/TU_USUARIO/CALCULADORAEDAD.git](https://github.com/TU_USUARIO/CALCULADORAEDAD.git)
