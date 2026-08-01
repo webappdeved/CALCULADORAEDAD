@@ -1,4 +1,4 @@
-# 🚀 Proyecto de Revisión Integral (Calculadora de Edad) — LPR 2026
+# 🚀 Proyecto: Calculadora de Edad — LPR 2026
 
 ## Escuela de Educación Secundaria Técnica N° 1 "Eduardo Ader" — Vicente López
 
