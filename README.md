@@ -5,6 +5,7 @@
 * **Curso:** 5° Año — Especialidad Computación / Programación
 * **Materia:** Laboratorio de Programación (LPR)
 * **Profesor:** Prof. York
+* **Estudiante:** Fuseneco Dardo
 
 ---
 
@@ -20,9 +21,9 @@ El objetivo principal es comparar la lógica y la sintaxis de dos paradigmas dif
 
 ## 👥 Integrantes (Grupo N° __)
 
-* Apellido, Nombre — [Rol: Programador C++]
-* Apellido, Nombre — [Rol: Programador Python]
-* Apellido, Nombre — [Rol: QA Tester / Documentación]
+* Argento, Pepe — [Rol: Programador C++]
+* Fuseneco, Maria Elena — [Rol: Programador Python]
+* Argento, Fatiga — [Rol: QA Tester / Documentación]
 
 ---
 
