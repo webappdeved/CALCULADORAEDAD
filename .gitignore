@@ -17,7 +17,7 @@ desktop.ini
 *.exe
 *.msi
 *.bin
-*.pdf_preview (temporales)
+*.pdf_preview
 
 # --- CARPETAS DE DATOS TEMPORALES ---
 /backend/__pycache__/

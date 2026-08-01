@@ -1,35 +1,38 @@
-# ?? Proyecto de RevisiÛn Integral (Calculadora de Edad) ó LPR 2026
-## Escuela de EducaciÛn Secundaria TÈcnica N∞ 1 "Eduardo Ader" ó Vicente LÛpez
+# üöÄ Proyecto de Revisi√≥n Integral (Calculadora de Edad) ‚Äî LPR 2026
 
-* **Curso:** 5∞ AÒo ó Especialidad ComputaciÛn / ProgramaciÛn
-* **Materia:** Laboratorio de ProgramaciÛn (LPR)
+## Escuela de Educaci√≥n Secundaria T√©cnica N¬∞ 1 "Eduardo Ader" ‚Äî Vicente L√≥pez
+
+* **Curso:** 5¬∞ A√±o ‚Äî Especialidad Computaci√≥n / Programaci√≥n
+* **Materia:** Laboratorio de Programaci√≥n (LPR)
 * **Profesor:** Prof. York
 
 ---
 
-## ?? DescripciÛn de la Actividad
-Este proyecto es una actividad de diagnÛstico y nivelaciÛn. Consiste en desarrollar un programa que calcule la edad exacta de una persona comparando su fecha de nacimiento con la fecha actual, validando que los datos existan en el calendario real (controlando aÒos bisiestos y dÌas de cada mes).
+## üìå Descripci√≥n de la Actividad
 
-El objetivo principal es comparar la lÛgica y la sintaxis de dos paradigmas diferentes:
-1. **C++ ANSI est·ndar:** Lenguaje estructurado, de tipado est·tico y bajo nivel.
-2. **Python 3:** Lenguaje multiparadigma, de tipado din·mico y alto nivel.
+Este proyecto es una actividad de diagn√≥stico y nivelaci√≥n. Consiste en desarrollar un programa que calcule la edad exacta de una persona comparando su fecha de nacimiento con la fecha actual, validando que los datos existan en el calendario real (controlando a√±os bisiestos y d√≠as de cada mes).
 
----
-
-## ?? Integrantes (Grupo N∞ __)
-* **Apellido, Nombre** ó [Rol: Programador C++]
-* **Apellido, Nombre** ó [Rol: Programador Python]
-* **Apellido, Nombre** ó [Rol: QA Tester / DocumentaciÛn]
+El objetivo principal es comparar la l√≥gica y la sintaxis de dos paradigmas diferentes:
+* **C++ ANSI est√°ndar:** Lenguaje estructurado, de tipado est√°tico y bajo nivel.
+* **Python 3:** Lenguaje multiparadigma, de tipado din√°mico y alto nivel.
 
 ---
 
-## ?? Requisitos e InstalaciÛn
+## üë• Integrantes (Grupo N¬∞ __)
+
+* Apellido, Nombre ‚Äî [Rol: Programador C++]
+* Apellido, Nombre ‚Äî [Rol: Programador Python]
+* Apellido, Nombre ‚Äî [Rol: QA Tester / Documentaci√≥n]
+
+---
+
+## üõ†Ô∏è Requisitos e Instalaci√≥n
+
 Para poder ejecutar y colaborar en este proyecto de software, necesitas contar con las siguientes herramientas en tu computadora:
+* **Python 3.12+** (Marcar la casilla "Add python.exe to PATH" durante la instalaci√≥n).
+* **Compilador G++ / GCC** (Instalado mediante MinGW en Windows 10/11).
+* **Git** (Configurado con la rama por defecto en `main`).
 
-1. **Python 3.12+** (Marcar la casilla "Add python.exe to PATH" durante la instalaciÛn).
-2. **Compilador G++ / GCC** (Instalado mediante MinGW en Windows o Xcode-cli en macOS).
-3. **Git** (Configurado con la rama por defecto en `main`).
-
-Para clonar este repositorio de forma local, abre la terminal y ejecuta:
-```bash
-git clone [https://github.com/TU_USUARIO/CALCULADORAEDAD.git](https://github.com/TU_USUARIO/CALCULADORAEDAD.git)
+Para clonar este repositorio de forma local, abre la terminal de PowerShell y ejecuta:
+```powershell
+git clone [https://github.com/webappdeved/CALCULADORA_EDAD.git](https://github.com/webappdeved/CALCULADORA_EDAD.git)
