@@ -19,7 +19,7 @@ El objetivo principal es comparar la lógica y la sintaxis de dos paradigmas dif
 
 ---
 
-## 👥 Integrantes (Grupo N° __)
+## 👥 Integrantes (Grupo N° 1)
 
 * Argento, Pepe — [Rol: Programador C++]
 * Fuseneco, Maria Elena — [Rol: Programador Python]
