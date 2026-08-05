@@ -1,11 +1,11 @@
 # 🚀 Proyecto: Calculadora de Edad — LPR 2026
 
-## Escuela de Educación Secundaria Técnica N° 1 "Eduardo Ader" — Vicente López
+## Escuela de Educación Secundaria Técnica N° 10 "Mandalorian and Grogu" — Vicente López
 
 * **Curso:** 5° Año — Especialidad Computación / Programación
 * **Materia:** Laboratorio de Programación (LPR)
 * **Profesor:** Prof. York
-* **Estudiante:** Fuseneco Dardo
+* **Estudiante:** Din Djarin
 
 ---
 
@@ -21,7 +21,7 @@ El objetivo principal es comparar la lógica y la sintaxis de dos paradigmas dif
 
 ## 👥 Integrantes (Grupo N° 1)
 
-* Argento, Pepe — [Rol: Programador C++]
+* Din, Djarin — [Rol: Programador C++]
 * Fuseneco, Maria Elena — [Rol: Programador Python]
 * Argento, Fatiga — [Rol: QA Tester / Documentación]
 
